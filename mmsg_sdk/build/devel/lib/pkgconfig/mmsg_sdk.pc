@@ -1,0 +1,8 @@
+prefix=/home/barracuda/catkin_ws/src/mmsg_sdk/build/devel
+
+Name: mmsg_sdk
+Description: Description of mmsg_sdk
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
