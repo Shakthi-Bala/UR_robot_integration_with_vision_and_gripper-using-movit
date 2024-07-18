@@ -1,2 +1,0 @@
-deprojection_pipeline_msgs/ObjectPosition[] object_position
-sensor_msgs/Image image
